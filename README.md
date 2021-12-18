@@ -6,7 +6,7 @@
 - 😄 Pronouns: Ele.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorGelado&count_private=true&show_icons=true&theme=dark&border_radius=10px&title_color=8257e5&icon_color=4b70f1&text_color=fff)](https://github.com/VictorGelado/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGelado&theme=dark&border_radius=10px&layout=compact&card_width=350px&text_color=fff&title_color=8257e5)](https://github.com/VictorGelado/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGelado&theme=dark&border_radius=10px&layout=compact&card_width=400&text_color=fff&title_color=8257e5)](https://github.com/VictorGelado/)
 
 <div style="display: inline-block"><br/>
   <img align="center" alt="Victor-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
