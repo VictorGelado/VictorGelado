@@ -6,17 +6,22 @@
 - 😄 Pronouns: Ele.
 
 <div>
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorGelado&count_private=true&show_icons=true&theme=dark&border_radius=10px&title_color=8257e5&icon_color=4b70f1&text_color=fff"/></a>
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGelado&theme=dark&border_radius=10px&layout=compact&card_width=400&text_color=fff&title_color=8257e5"/></a>
+  <a href="https://github.com/VictorGelado"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorGelado&count_private=true&show_icons=true&theme=dark&border_radius=10px&title_color=8257e5&icon_color=4b70f1&text_color=fff"/></a>
+  <a href="https://github.com/VictorGelado"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGelado&theme=dark&border_radius=10px&layout=compact&card_width=400&text_color=fff&title_color=8257e5"/></a>
 </div>
 
-<h1 align="center">Technologies</h1>
-<div style="display: inline-block;" align="center"><br/>
+<h1>Technologies</h1>
+<div style="display: inline-block;">
   <img align="center" alt="Victor-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Victor-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Victor-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img align="center" alt="Victor-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-</div>  
+</div><br/>
+
+# Contact
+<div>
+  <a href="https://www.linkedin.com/in/victorgelado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorGelado&count_private=true&show_icons=true&theme=dark&border_radius=10px&title_color=8257e5&icon_color=4b70f1&text_color=fff)](https://github.com/VictorGelado/)
