@@ -5,12 +5,13 @@
 - 👯 Estou procurando aprender mais e, ganhar esperiência.
 - 😄 Pronouns: Ele.
 
-<div align="center">
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorGelado&count_private=true&show_icons=true&theme=dark&border_radius=10px&title_color=8257e5&icon_color=4b70f1&text_color=fff"/></a>
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGelado&theme=dark&border_radius=10px&layout=compact&card_width=400&text_color=fff&title_color=8257e5"/></a>
+<div>
+  <a src="https://github.com/VictorGelado"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorGelado&count_private=true&show_icons=true&theme=dark&border_radius=10px&title_color=8257e5&icon_color=4b70f1&text_color=fff"/></a>
+  <a src="https://github.com/VictorGelado"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGelado&theme=dark&border_radius=10px&layout=compact&card_width=400&text_color=fff&title_color=8257e5"/></a>
 </div>
 
-<div style="display: inline-block"><br/>
+<h1 align="center">Technologies</h1>
+<div style="display: inline-block;" align="center"><br/>
   <img align="center" alt="Victor-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Victor-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Victor-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
