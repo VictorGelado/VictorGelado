@@ -5,7 +5,7 @@
 - 👯 Estou procurando aprender mais e, ganhar esperiência.
 - 😄 Pronouns: Ele.
 
-<div style="display: inline-block;">
+<div align="center">
   <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorGelado&count_private=true&show_icons=true&theme=dark&border_radius=10px&title_color=8257e5&icon_color=4b70f1&text_color=fff"/></a>
   <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGelado&theme=dark&border_radius=10px&layout=compact&card_width=400&text_color=fff&title_color=8257e5"/></a>
 </div>
