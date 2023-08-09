@@ -1,4 +1,4 @@
-## Olá,me chamo Victor Manoel, tenho 17 anos e, estou amando estudar programação. Comecei na programação em 2020, atualmente sei o básico de JavaScript, Java, HTML e CSS, eu estou a procura de experiêcia.
+## Olá,me chamo Victor Manoel, estou amando estudar programação. Comecei na programação em 2020, atualmente sei o básico de JavaScript, Java, HTML e CSS, eu estou a procura de experiêcia.
 
 - 🔭 Eu estou começando na programação.
 - 🌱 Estudando JavaScript, Java, HTML e CSS.
