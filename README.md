@@ -1,6 +1,5 @@
 ## Olá,me chamo Victor Manoel, estou amando estudar programação. Comecei na programação em 2020, atualmente sei o básico de JavaScript, Java, HTML e CSS, eu estou a procura de experiêcia.
 
-- 🔭 Eu estou começando na programação.
 - 🌱 Estudando JavaScript, Java, HTML e CSS.
 - 👯 Estou procurando aprender mais e, ganhar esperiência.
 - 😄 Pronouns: Ele.
