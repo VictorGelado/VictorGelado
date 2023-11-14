@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/VictorGelado"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorGelado&count_private=true&show_icons=true&theme=dark&border_radius=10px&title_color=8257e5&icon_color=4b70f1&text_color=fff&layout=compact&langs_count=7&include_all_commits=true"/></a>
-  <a href="https://github.com/VictorGelado"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGelado&theme=dark&border_radius=10px&layout=compact&card_width=400&text_color=fff&title_color=8257e5&layout=compact&langs_count=6"/></a>
+  <a href="https://github.com/VictorGelado"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=VictorGelado&theme=dark&border_radius=10px&layout=compact&card_width=400&text_color=fff&title_color=8257e5&layout=compact&langs_count=6"/></a>
 </div><br/>
 
 <div>
