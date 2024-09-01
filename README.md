@@ -1,8 +1,16 @@
-## Olá,me chamo Victor Manoel, estou amando estudar programação. Comecei na programação em 2020, atualmente sei o básico de JavaScript, Java, HTML e CSS, eu estou a procura de experiêcia.
+# Olá, eu sou Victor Manoel!
+Sou Técnico-Administração em Educação - Tecnologia da Informção (TAE-TI) na Universidade Federal de Goiás (UFG) e um entusiasta da programação. Iniciei minha jornada em 2020 e atualmente tenho experiência em:
 
-- 🌱 Estudando JavaScript, Java, HTML e CSS.
-- 👯 Estou procurando aprender mais e, ganhar esperiência.
-- 😄 Pronouns: Ele.
+- JavaScript
+- Java
+- HTML
+- CSS
+- WordPress
+- SQL (PostgreSQL)
+
+Com um curso técnico em Informática para Internet pelo IF Goiano e atualmente cursando Ciência da Computação Universidade Federal de Goiás (UFG), estou sempre em busca de aprender e crescer na área de tecnologia. Estou envolvido em projetos pessoais e busco novas oportunidades para colaborar e expandir minhas habilidades.
+
+#
 
 <div align="center">
   <a href="https://github.com/VictorGelado"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorGelado&count_private=true&show_icons=true&theme=dark&border_radius=10px&title_color=8257e5&icon_color=4b70f1&text_color=fff&layout=compact&langs_count=7&include_all_commits=true"/></a>
