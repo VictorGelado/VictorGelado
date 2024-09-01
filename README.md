@@ -1,12 +1,12 @@
 # Olá, eu sou Victor Manoel!
 Sou Técnico-Administração em Educação - Tecnologia da Informção (TAE-TI) na Universidade Federal de Goiás (UFG) e um entusiasta da programação. Iniciei minha jornada em 2020 e atualmente tenho experiência em:
 
-- JavaScript
-- Java
-- HTML
-- CSS
-- WordPress
-- SQL (PostgreSQL)
+- JavaScript🌐
+- Java☕
+- HTML📄
+- CSS🎨
+- WordPress📝
+- SQL (PostgreSQL)🏦🎲
 
 Com um curso técnico em Informática para Internet pelo IF Goiano e atualmente cursando Ciência da Computação Universidade Federal de Goiás (UFG), estou sempre em busca de aprender e crescer na área de tecnologia. Estou envolvido em projetos pessoais e busco novas oportunidades para colaborar e expandir minhas habilidades.
 
