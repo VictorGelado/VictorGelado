@@ -11,7 +11,7 @@ Sou Técnico-Administração em Educação - Tecnologia da Informção (TAE-TI) 
 Com um curso técnico em Informática para Internet pelo IF Goiano e atualmente cursando Ciência da Computação na Universidade Federal de Goiás (UFG), estou sempre em busca de aprender e crescer na área de tecnologia. Estou envolvido em projetos pessoais e busco novas oportunidades para colaborar e expandir minhas habilidades.
 
 #
-
+<br/>
 <div align="center">
   <a href="https://github.com/VictorGelado"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorGelado&count_private=true&show_icons=true&theme=dark&border_radius=10px&title_color=8257e5&icon_color=4b70f1&text_color=fff&layout=compact&langs_count=7&include_all_commits=true"/></a>
   <a href="https://github.com/VictorGelado"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGelado&layout=compact&card_width=400"></a>
