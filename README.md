@@ -8,7 +8,7 @@ Sou Técnico-Administração em Educação - Tecnologia da Informção (TAE-TI) 
 - WordPress📝
 - SQL (PostgreSQL)🏦🎲
 
-Com um curso técnico em Informática para Internet pelo IF Goiano e atualmente cursando Ciência da Computação Universidade Federal de Goiás (UFG), estou sempre em busca de aprender e crescer na área de tecnologia. Estou envolvido em projetos pessoais e busco novas oportunidades para colaborar e expandir minhas habilidades.
+Com um curso técnico em Informática para Internet pelo IF Goiano e atualmente cursando Ciência da Computação na Universidade Federal de Goiás (UFG), estou sempre em busca de aprender e crescer na área de tecnologia. Estou envolvido em projetos pessoais e busco novas oportunidades para colaborar e expandir minhas habilidades.
 
 #
 
