@@ -1,4 +1,4 @@
-# Olá, eu sou Victor Manoel!
+# Olá, eu sou Victor Manoel! 🤓
 Sou Técnico-Administração em Educação - Tecnologia da Informção (TAE-TI) na Universidade Federal de Goiás (UFG) e um entusiasta da programação. Iniciei minha jornada em 2020 e atualmente tenho experiência em:
 
 - JavaScript🌐
